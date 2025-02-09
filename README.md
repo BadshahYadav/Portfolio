@@ -21,7 +21,7 @@ Welcome to the repository for my personal portfolio website, built using Next.js
 
 This is my personal portfolio website where I showcase my projects, skills, and experience. The website is designed to be fully responsive and includes features such as project showcases, a contact form, and more.
 
-You can view the live portfolio at: [theavnishkumar.in](https://theavnishkumar.in)
+You can view the live portfolio at: [LIVE PREVIEW](https://badshahyadav.github.io/Portfolio/)
 
 ## Features
 
@@ -70,7 +70,7 @@ Ensure you have the following tools installed on your development machine:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/theavnishkumar/avnishkumar-portfolio.git
+git clone https://github.com/BadshahYadav/Portfolio.git
 cd portfolio
 ```
 
