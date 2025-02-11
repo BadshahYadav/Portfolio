@@ -1,7 +1,7 @@
 export const project_data = [
     {
         title: "Apna-Sangeet",
-        image: "/project/Apna_Sangeet.jpg",
+        image: "Apna_Sangeet.jpg",
         description:
             "This is basically a Music Player App, which acesses only local downladed songs in your devices and you can play songs easily ..I hope you like it 🙃..",
         badges: ["Java"],
@@ -11,7 +11,7 @@ export const project_data = [
     },
     {
         title: "Helping NGO",
-        image: "/project/Helping_NGOs.png",
+        image: "Helping_NGOs.png",
         description:
             "We try to ensure that animals receive the proper care and attention they need. To achieve this we have taken many steps: Identification of needs: It is crucial to identify the needs of animals in rescue situations, such as food, shelter, and medical care. Resource allocation: Proper allocation of resources, such as funding, supplies, and personnel, is necessary to ensure that animals receive the care they need. Safety protocols: Establishing safety protocols for both animals and rescue personnel is crucial to minimize the risk of injury or harm during the rescue process. Legal considerations: It is important to consider legal aspects, such as permits and regulations, to ensure that the rescue operation is carried out in compliance with local laws. Follow-up care: Planning for follow-up care after the rescue operation, including medical care and adoption services, is essential to ensure that animals continue to receive the care they need.",
         badges: ["java script", "Tailwind css", "React js", "MongoDB"],
