@@ -18,7 +18,7 @@ export const EmailTemplate = ({ messageData, name, email }) => (
         </p>
         <h4 style={{ color: "#6c757d" }}>Email: {email}</h4>
         {/* <a
-          href="https://theBadshahkumar.in"
+          href="https://badshahyadav.github.io/Portfolio/"
           style={{
             display: "inline-block",
             color: "#fff",
@@ -66,7 +66,7 @@ export const EmailTemplate2 = ({ name }) => (
           <br />
         </p>
         <a
-          href="https://theBadshahkumar.in"
+          href="https://badshahyadav.github.io/Portfolio/"
           style={{
             display: "inline-block",
             color: "#fff",

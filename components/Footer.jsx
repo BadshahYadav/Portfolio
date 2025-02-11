@@ -26,7 +26,7 @@ const Footer = () => {
     {
       id: 4,
       name: "X (Twitter)",
-      link: "",
+      link: "https://x.com/_emperor_4k",
       icon: <FaExternalLinkAlt />,
     },
     {

@@ -1,9 +1,9 @@
 export const project_data = [
     {
         title: "Apna-Sangeet",
-        image: "https://github.com/BadshahYadav/Apna-Sangeet/blob/master/img.jpg",
+        image: "/project/Apna_Sangeet.jpg",
         description:
-            "I've created my first #android app which is a #music player #app . Basically it access .mp3 file which is downloaded in your local device and you can easily play that songs. I hope you guys are enjoy.",
+            "This is basically a Music Player App, which acesses only local downladed songs in your devices and you can play songs easily ..I hope you like it 🙃..",
         badges: ["Java"],
         github:
             "https://github.com/BadshahYadav/Apna-Sangeet",
@@ -11,10 +11,10 @@ export const project_data = [
     },
     {
         title: "Helping NGO",
-        image: "https://github.com/BadshahYadav/HelpingNGO/blob/master/Img/Screen1.png",
+        image: "/project/Helping_NGOs.png",
         description:
-            "Personal Financial Management App is a user-friendly application built with React, Tailwind CSS, Express, and MongoDB. It allows users to create accounts, log in securely, and manage their expenses by adding, deleting, and modifying entries. Users can filter expenses by date, month, or year, and visualize their spending with a pie chart, making financial tracking simple and intuitive.",
-        badges: ["React js", "Tailwind css", "Express js", "MongoDB"],
+            "We try to ensure that animals receive the proper care and attention they need. To achieve this we have taken many steps: Identification of needs: It is crucial to identify the needs of animals in rescue situations, such as food, shelter, and medical care. Resource allocation: Proper allocation of resources, such as funding, supplies, and personnel, is necessary to ensure that animals receive the care they need. Safety protocols: Establishing safety protocols for both animals and rescue personnel is crucial to minimize the risk of injury or harm during the rescue process. Legal considerations: It is important to consider legal aspects, such as permits and regulations, to ensure that the rescue operation is carried out in compliance with local laws. Follow-up care: Planning for follow-up care after the rescue operation, including medical care and adoption services, is essential to ensure that animals continue to receive the care they need.",
+        badges: ["java script", "Tailwind css", "React js", "MongoDB"],
         github:
             "https://github.com/BadshahYadav/HelpingNGO",
         live: "https://badshahyadav.github.io/HelpingNGO/",

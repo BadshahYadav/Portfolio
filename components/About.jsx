@@ -145,7 +145,7 @@ const About = () => {
               </a>
               {/* X */}
               <a
-                href=""
+                href="https://x.com/_emperor_4k"
                 target="_blank"
                 rel="noreferrer"
                 aria-label="Goto my x profile"
